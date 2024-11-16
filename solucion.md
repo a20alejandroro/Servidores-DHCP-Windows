@@ -55,7 +55,7 @@ Inclúe capturas de:
 
   - Vídeo no que o cliente renova a concesión, e se ve  a zona DNS unha vez que o DHCP actualiza o DNS. Tamén o cliente debe ser capaz de resolver o seu propio nome (non FQDN).
 
-    **VIDEO:**  [Clica aqui para ver el vídeo](/imagenes/Apartado4_1.mp4)
+    **VIDEO:**  [Clica aqui para ver el vídeo](https://www.youtube.com/watch?v=TbuC1eQ6rSY)
 
     Cliente CERCEI resolvendo a sua propia zona:
 
